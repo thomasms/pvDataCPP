@@ -1,0 +1,34 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classepics_1_1pv_data_1_1_bit_set_serializable.html" title="Class for serializing bitSets. " alt="" coords="232,133,447,160"/>
+<area shape="rect" id="node2" href="$classepics_1_1pv_data_1_1_p_v_structure.html" title="Data interface for a structure,. " alt="" coords="495,133,677,160"/>
+<area shape="rect" id="node4" href="$classepics_1_1pv_data_1_1_field.html" title="This class implements introspection object for field. " alt="" coords="270,411,409,437"/>
+<area shape="rect" id="node15" href="$classepics_1_1pv_data_1_1_field_builder.html" title="Interface for in&#45;line creating of introspection interfaces. " alt="" coords="250,220,429,247"/>
+<area shape="rect" id="node16" href="$classepics_1_1pv_data_1_1_p_v_field.html" title="PVField is the base class for each PVData field. " alt="" coords="261,271,418,297"/>
+<area shape="rect" id="node5" href="$classepics_1_1pv_data_1_1_array.html" title="This class implements introspection object for Array. " alt="" coords="515,408,657,435"/>
+<area shape="rect" id="node11" href="$classepics_1_1pv_data_1_1_scalar.html" title="This class implements introspection object for Scalar. " alt="" coords="512,459,660,485"/>
+<area shape="rect" id="node13" href="$classepics_1_1pv_data_1_1_structure.html" title="This class implements introspection object for a structure. " alt="" coords="504,509,668,536"/>
+<area shape="rect" id="node14" href="$classepics_1_1pv_data_1_1_union.html" title="This class implements introspection object for a union. " alt="" coords="513,560,659,587"/>
+<area shape="rect" id="node6" href="$classepics_1_1pv_data_1_1_scalar_array.html" title="This class implements introspection object for scalar array. " alt="" coords="751,404,930,431"/>
+<area shape="rect" id="node9" href="$classepics_1_1pv_data_1_1_structure_array.html" title="This class implements introspection object for a structureArray. " alt="" coords="759,455,923,497"/>
+<area shape="rect" id="node10" href="$classepics_1_1pv_data_1_1_union_array.html" title="This class implements introspection object for a unionArray. " alt="" coords="753,521,929,548"/>
+<area shape="rect" id="node7" href="$classepics_1_1pv_data_1_1_bounded_scalar_array.html" title="This class implements introspection object for bounded scalar array. " alt="" coords="1004,371,1203,413"/>
+<area shape="rect" id="node8" href="$classepics_1_1pv_data_1_1_fixed_scalar_array.html" title="This class implements introspection object for bounded scalar array. " alt="" coords="1013,437,1193,478"/>
+<area shape="rect" id="node12" href="$classepics_1_1pv_data_1_1_bounded_string.html" title="This class implements introspection object for BoundedString. " alt="" coords="743,572,939,599"/>
+<area shape="rect" id="node17" href="$classepics_1_1pv_data_1_1_p_v_array.html" title="PVArray is the base class for all array types. " alt="" coords="506,184,666,211"/>
+<area shape="rect" id="node25" href="$classepics_1_1pv_data_1_1_p_v_scalar.html" title="PVScalar is the base class for each scalar field. " alt="" coords="503,248,669,275"/>
+<area shape="rect" id="node29" href="$classepics_1_1pv_data_1_1_p_v_union.html" title="PVUnion has a single subfield. " alt="" coords="505,299,667,325"/>
+<area shape="rect" id="node18" href="$classepics_1_1pv_data_1_1_p_v_scalar_array.html" title="Base class for a scalarArray. " alt="" coords="742,21,939,48"/>
+<area shape="rect" id="node21" href="$classepics_1_1pv_data_1_1detail_1_1_p_v_vector_storage.html" title="epics::pvData::detail\l::PVVectorStorage\&lt; PVStructure\lPtr, PVArray \&gt;" alt="" coords="733,76,948,132"/>
+<area shape="rect" id="node23" href="$classepics_1_1pv_data_1_1detail_1_1_p_v_vector_storage.html" title="epics::pvData::detail\l::PVVectorStorage\&lt; PVUnionPtr,\l PVArray \&gt;" alt="" coords="733,156,949,212"/>
+<area shape="rect" id="node19" href="$classepics_1_1pv_data_1_1detail_1_1_p_v_vector_storage.html" title="epics::pvData::detail\l::PVVectorStorage\&lt; T,\l PVScalarArray \&gt;" alt="" coords="1026,5,1181,61"/>
+<area shape="rect" id="node20" href="$classepics_1_1pv_data_1_1_p_v_value_array.html" title="template class for all extensions of PVArray. " alt="" coords="1251,20,1476,47"/>
+<area shape="rect" id="node22" href="$classepics_1_1pv_data_1_1_p_v_value_array_3_01_p_v_structure_ptr_01_4.html" title="Data class for a structureArray. " alt="" coords="1007,86,1200,127"/>
+<area shape="rect" id="node24" href="$classepics_1_1pv_data_1_1_p_v_value_array_3_01_p_v_union_ptr_01_4.html" title="Data class for a unionArray. " alt="" coords="1007,163,1200,205"/>
+<area shape="rect" id="node26" href="$classepics_1_1pv_data_1_1_p_v_scalar_value.html" title="Class that holds the data for each possible scalar type. " alt="" coords="725,303,956,329"/>
+<area shape="rect" id="node27" href="$classepics_1_1pv_data_1_1_p_v_scalar_value.html" title="epics::pvData::PVScalarValue\l\&lt; std::string \&gt;" alt="" coords="741,237,940,278"/>
+<area shape="rect" id="node28" href="$classepics_1_1pv_data_1_1_p_v_string.html" title="PVString is special case, since it implements SerializableArray. " alt="" coords="1022,295,1185,321"/>
+<area shape="rect" id="node30" href="$classepics_1_1pv_data_1_1_serializable.html" title="Base class for serialization. " alt="" coords="5,411,184,437"/>
+<area shape="rect" id="node31" href="$classepics_1_1pv_data_1_1_bit_set.html" title="A vector of bits. " alt="" coords="266,461,413,488"/>
+<area shape="rect" id="node32" href="$classepics_1_1pv_data_1_1_serializable_array.html" title="Class for serializing arrays. " alt="" coords="250,345,429,386"/>
+<area shape="rect" id="node33" href="$classepics_1_1pv_data_1_1_status.html" title="Status. " alt="" coords="265,512,414,539"/>
+</map>
